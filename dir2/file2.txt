@@ -1,0 +1,4 @@
+Soubor file2.txt
+================
+
+Tady neco je.
