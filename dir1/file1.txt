@@ -4,7 +4,8 @@ Soubor file1.txt
 Obsah souboru:
 
 1)
-CHANGE2)
-CHANGE3)
-CHANGE4)
+-xxx2)
+Changed3)
+-xxx4)
 5)
+
